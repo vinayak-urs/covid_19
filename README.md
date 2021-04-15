@@ -1,16 +1,43 @@
-# covid19
+# Covid19 Patients Tracker
 
-A  Flutter application for COVID-19 tracker.
+This Appllication is Integrated with the several API for covid patient Tracker at all the stack such as countries states .
+
+For help getting started with Flutter, view the online
+[documentation](https://flutter.io/).
+
+You can check out the corresponding Google code lab [here](https://codelabs.developers.google.com/codelabs/flutter/index.html?index=..%2F..%2Findex#0).
+
+# Demo
+![Demo](https://drive.google.com/file/d/1NrF4HdxS2GFjZgvX_RY3wad1CuReJcTQ/view?usp=sharing)
+
 
 ## Getting Started
+**Note:** Make sure your Flutter environment is setup.
 
-This project is a starting point for a Flutter application.
+#### Installation
 
-A few resources to get you started if this is your first Flutter project:
+In the command terminal, run the following commands:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    $ git clone git@github.com:in-00/covid_19.git
+    $ cd covid_19/
+    $ flutter run
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Simulate for iOS
+#### Method One
+    
+    Open the project in Xcode from ios/Runner.xcodeproj.
+    Hit the play button.
+
+#### Method Two
+
+    Run the following command in your terminal.
+    $ open -a Simulator
+    $ flutter run
+
+# Simulate for Android
+
+    Make sure you have an Android emulator installed and running.
+    Run the following command in your terminal.
+    $ flutter run
+
+##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter project.
