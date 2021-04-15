@@ -9,7 +9,7 @@ You can check out the corresponding Google code lab [here](https://codelabs.deve
 
 # Demo
 ![Demo](https://github.com/in-00/covid_19/blob/d647c57e83b60ceac986da2b5e0a2a44ba74c918/ezgif.com-gif-maker.gif)
-![Demo](https://github.com/in-00/covid_19/blob/d647c57e83b60ceac986da2b5e0a2a44ba74c918/demo.gif)
+![Demo](https://github.com/in-00/covid_19/blob/a081082243cd22719c9b992fa5bc15022eb2d9c3/demo.gif)
 
 
 ## Getting Started
