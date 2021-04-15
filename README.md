@@ -8,7 +8,7 @@ For help getting started with Flutter, view the online
 You can check out the corresponding Google code lab [here](https://codelabs.developers.google.com/codelabs/flutter/index.html?index=..%2F..%2Findex#0).
 
 # Demo
-![Demo](https://drive.google.com/file/d/1NrF4HdxS2GFjZgvX_RY3wad1CuReJcTQ/view?usp=sharing)
+![Demo](https://github.com/in-00/covid_19/blob/d647c57e83b60ceac986da2b5e0a2a44ba74c918/ezgif.com-gif-maker.gif)
 
 
 ## Getting Started
